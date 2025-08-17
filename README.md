@@ -5,6 +5,7 @@ In this lab project, I will perform enumeration of systems using various command
 I will explore two primary types of scanning techniques:
 
 Active Scanning: A method that interacts with systems and is detectable on the network.
+
 Passive Scanning: A method that monitors network traffic without actively engaging with hosts, making it undetectable.
 
 The tools and techniques used in this lab will help develop skills in identifying and profiling systems on a network, which are crucial for penetration testing and network defense. Lab practice apart of Infosec Learning and through Springboard Curriculum.

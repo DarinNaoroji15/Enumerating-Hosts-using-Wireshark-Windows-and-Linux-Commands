@@ -1,4 +1,4 @@
-# Enumerating Hosts using Wireshark Windows and Linux Commands
+# Enumerating Hosts using Wireshark, Windows, and Linux Commands
 
 In this lab, I will explore the enumeration of systems using Linux and Windows command line tools. This section we will start by actively scanning with commands.
 
